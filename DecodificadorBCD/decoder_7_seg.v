@@ -1,5 +1,5 @@
 module decoder_7_seg(
-	input [2:0] decoder_in,
+	input [3:0] decoder_in,
 	output reg [0:6] decoder_out
 );
 	always @(*)
