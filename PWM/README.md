@@ -38,8 +38,8 @@ Este proyecto implementa un generador de señal PWM en Verilog, que permite ajus
 <img src="images/tmv.png" alt="TMV" width="600">
 
 ## Video
-[Ver video de servo con calculos de 10% y 5%](ruta/al/servo_10.mp4)
-[Ver video de servo que gira 180°](ruta/al/servo_180.mp4)
+*  [Ver video de servo con calculos de 10% y 5%](ruta/al/servo_10.mp4)
+*  [Ver video de servo que gira 180°](ruta/al/servo_180.mp4)
 <video controls width="600">
   <source src="servo_10.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
