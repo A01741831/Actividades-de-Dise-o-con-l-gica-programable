@@ -1,4 +1,4 @@
-# Decodificación Counter en Verilog
+# Counter en Verilog
 
 ## Información del Autor
 - **Nombre:** Ana Maria Rodriguez Peña
