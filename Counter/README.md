@@ -5,7 +5,7 @@
 - **Matrícula:** A01741831
 
 ## Descripción
-Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un número binario en su representación en código decimal codificado en binario (BCD). Este diseño es útil para la visualización de números en displays de 7 segmentos y otros dispositivos digitales.
+Este proyecto implementa un contador en Verilog, el cual utiliza un divisor de frecuencia, un eliminador de rebotes y un módulo de conversión a BCD para representar el conteo en un display de 7 segmentos. El diseño permite contar pulsos de entrada de manera estable y precisa, mostrando el resultado en unidades, decenas, centenas y millares. Es útil en aplicaciones digitales donde se requiere un conteo confiable y su visualización en dispositivos de salida.
 
 ## Requisitos
 *	Quartus Prime (Intel FPGA)
@@ -13,7 +13,7 @@ Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un n
 *	Cable de programación JTAG
 
 ## Estructura del Proyecto
-*	clkdiv.v: Genera una señal de reloj con menor frecuencia a partir de la señal original.
+*	  clkdiv.v: Genera una señal de reloj con menor frecuencia a partir de la señal original.
 *   debouncer.v: Estabiliza la señal de entrada para evitar fluctuaciones indeseadas, compensando la mecánica de los interruptores.
 *   count_load.v: Implementa un contador con funciones de carga (Load) y conteo ascendente/descendente (Up/Down), sincronizado con el reloj.
 *   bcd.v: Convierte los valores en formato hexadecimal a su representación decimal en displays de 7 segmentos.
@@ -27,6 +27,7 @@ Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un n
 <img src="images/rtv_c.png" alt="TMV" width="600">
 
 ## Video
+[Ver video](ruta/al/Video_counter.mp4)
 <video controls width="600">
   <source src="Video_counter.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
