@@ -1,4 +1,4 @@
-# Decodificación BCD en Verilog
+# Decodificación Counter en Verilog
 
 ## Información del Autor
 - **Nombre:** Ana Maria Rodriguez Peña
