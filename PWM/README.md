@@ -5,7 +5,7 @@
 - **Matrícula:** A01741831
 
 ## Descripción
-Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un número binario en su representación en código decimal codificado en binario (BCD). Este diseño es útil para la visualización de números en displays de 7 segmentos y otros dispositivos digitales.
+Este proyecto implementa un generador de señal PWM en Verilog, que permite ajustar el ciclo de trabajo (duty cycle) mediante el uso de botones pulsadores con eliminación de rebotes. Utiliza un divisor de reloj para generar una señal de frecuencia reducida y controla la modulación de ancho de pulso en función de los pulsos de entrada. Este diseño es útil en aplicaciones como el control de motores, regulación de brillo en LEDs y sistemas de conversión de potencia.
 
 ## Requisitos
 *	Quartus Prime (Intel FPGA)
@@ -38,6 +38,8 @@ Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un n
 <img src="images/tmv.png" alt="TMV" width="600">
 
 ## Video
+[Ver video de servo con calculos de 10% y 5%](ruta/al/servo_10.mp4)
+[Ver video de servo que gira 180°](ruta/al/servo_180.mp4)
 <video controls width="600">
   <source src="servo_10.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
