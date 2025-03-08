@@ -12,6 +12,7 @@ Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un n
 <img src="images/tmv.png" alt="TMV" width="600">
 
 ## Video
+[Ver video](ruta/al/bcd_tarjeta.mp4)
 <video controls width="600">
   <source src="bcd_tarjeta.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
