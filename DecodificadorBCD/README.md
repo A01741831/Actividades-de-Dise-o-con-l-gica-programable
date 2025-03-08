@@ -17,8 +17,3 @@ Este proyecto implementa un decodificador BCD en Verilog, el cual convierte un n
   <source src="bcd_tarjeta.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
 </video>
-
-## Archivos del Proyecto
-- `bcd_decoder.v`: Código fuente en Verilog del decodificador BCD.
-- `testbench.v`: Banco de pruebas para verificar el correcto funcionamiento del decodificador.
-- `README.md`: Este archivo con la descripción del proyecto.
