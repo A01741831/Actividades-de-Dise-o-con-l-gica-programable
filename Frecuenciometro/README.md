@@ -37,6 +37,7 @@ Este proyecto implementa un medidor de frecuencia en Verilog, diseñado para med
 <img src="images/tmv.png" alt="TMV" width="600">
 
 ## Video
+[Ver video](ruta/al/Frecuenciometro.mp4)
 <video controls width="600">
   <source src="Frecuenciometro.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de videos.
