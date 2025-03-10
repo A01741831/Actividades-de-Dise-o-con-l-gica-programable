@@ -33,7 +33,7 @@ Este proyecto implementa un sistema de verificación de contraseña en Verilog u
 *     El sistema puede reiniciarse en cualquier momento mediante la señal de reset (rst).
 
 ## Imágenes
-<img src="images/wave.png" alt="wave" width="600">
+<img src="images/wave2.png" alt="wave" width="600">
 <img src="images/rtl_viewer.png" alt="RTL Viewer" width="600">
 <img src="images/tmv.png" alt="TMV" width="600">
 <img src="images/smv.png" alt="TMV" width="600">
